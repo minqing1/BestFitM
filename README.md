@@ -8,7 +8,7 @@ The formulas of these seven basic fitting models are y = ax+b (line2P), y = ax^2
 # Installation
 ##require "devtools"
 
-devtools::install_github("fhruilin/BestFitM")
+devtools::install_github("minqing1/BestFitM")
 
 # example
 library(BestFitM)
